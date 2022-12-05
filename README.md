@@ -1,6 +1,5 @@
 # Songs Recomendation System
 
-**Complete Video Tutorial:** https://youtu.be/aHdgGnlIewk
 
 # Dataset Information
 
